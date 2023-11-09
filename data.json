@@ -1,74 +1,110 @@
 [
-  {
-    "name": "1",
-    "email": "2",
-    "phone": "3",
-    "city": "4",
-    "country": "5",
-    "d1": "6",
-    "d2": "7",
-    "d3": "8",
-    "url": "9",
-    "undefined": "Delete"
-  },
-  {
-    "name": "11",
-    "email": "22",
-    "phone": "33",
-    "city": "44",
-    "country": "55",
-    "d1": "66",
-    "d2": "77",
-    "d3": "88",
-    "url": "99",
-    "undefined": "Delete"
-  },
-  {
-    "name": "111",
-    "email": "222",
-    "phone": "333",
-    "city": "444",
-    "country": "555",
-    "d1": "666",
-    "d2": "777",
-    "d3": "888",
-    "url": "999",
-    "undefined": "Delete"
-  },
-  {
-    "name": "11",
-    "email": "11",
-    "phone": "11",
-    "city": "11",
-    "country": "11",
-    "d1": "11",
-    "d2": "11",
-    "d3": "11",
-    "url": "11",
-    "undefined": "Delete"
-  },
-  {
-    "name": "1",
-    "email": "1",
-    "phone": "1",
-    "city": "1",
-    "country": "1",
-    "d1": "1",
-    "d2": "1",
-    "d3": "1",
-    "url": "1",
-    "undefined": "Delete"
-  },
-  {
-    "name": "0",
-    "email": "0",
-    "phone": "0",
-    "city": "0",
-    "country": "0",
-    "d1": "0",
-    "d2": "0",
-    "d3": "0",
-    "url": "0",
-    "undefined": "Delete"
-  }
+    {
+        "name": "YOUR HAIR",
+        "image": "assets/images/services-01-400x400.jpg",
+        "description": "Improve your look with our professional hairstyling services.",
+        "services": [
+            {
+                "name": "HAIRCUTTING",
+                "cost": "$99"
+            },
+            {
+                "name": "BLOWDRY",
+                "cost": "$99"
+            },
+            {
+                "name": "UPDO AND STYLING",
+                "cost": "$99"
+            },
+            {
+                "name": "COLOURING AND HIGHLIGHTS",
+                "cost": "$99"
+            },
+            {
+                "name": "HAIR TREATMENTS",
+                "cost": "$99"
+            }
+        ]
+    },
+    {
+        "name": "YOUR SKIN",
+        "image": "assets/images/services-02-400x547.jpg",
+        "description": "Our skin care treatments are customized to suit your skin care needs.  We take pride in our level of professionalism as experienced estheticians.",
+        "services": [
+            {
+                "name": "BOTOX",
+                "cost": "$99"
+            },
+            {
+                "name": "CHEMICAL PEELS",
+                "cost": "$99"
+            },
+            {
+                "name": "MICRODERMABRASION",
+                "cost": "$99"
+            },
+            {
+                "name": "MICRONEEDLING",
+                "cost": "$99"
+            },
+            {
+                "name": "LASER THERAPY",
+                "cost": "$99"
+            }
+        ]
+    },
+    {
+        "name": "HANDS NAILS",
+        "image": "assets/images/services-02-400x547.jpg",
+        "description": "Our manicures and pedicures are expertly carried out by our highly accomplished therapists.",
+        "services": [
+            {
+                "name": "MANICURE",
+                "cost": "$99"
+            },
+            {
+                "name": "PEDICURE",
+                "cost": "$99"
+            },
+            {
+                "name": "WAXING",
+                "cost": "$99"
+            },
+            {
+                "name": "SPA MANICURE",
+                "cost": "$99"
+            },
+            {
+                "name": "HAND MASSAGES",
+                "cost": "$99"
+            }
+        ]
+    },
+    {
+        "name": "BODY TREATMENTS",
+        "image": "assets/images/services-02-400x547.jpg",
+        "description": "A relaxing, de-stressing massage is the perfect way to iron out tense muscles.",
+        "services": [
+            {
+                "name": "CLASSIC MASSAGE",
+                "cost": "$99"
+            },
+            {
+                "name": "HOT STONES",
+                "cost": "$99"
+            },
+            {
+                "name": "TOWEL RELAX",
+                "cost": "$99"
+            },
+            {
+                "name": "AROMATHERAPY",
+                "cost": "$99"
+            },
+            {
+                "name": "FACE MASSAGE",
+                "cost": "$99"
+            }
+        ]
+    }
 ]
