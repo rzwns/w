@@ -9,7 +9,7 @@
     "d2": "7",
     "d3": "8",
     "url": "9",
-    "undefined": "Shift Down"
+    "undefined": "Delete"
   },
   {
     "name": "11",
@@ -21,7 +21,7 @@
     "d2": "77",
     "d3": "88",
     "url": "99",
-    "undefined": "Shift Down"
+    "undefined": "Delete"
   },
   {
     "name": "name-value-1-1",
@@ -33,90 +33,6 @@
     "d2": "d2-value-1",
     "d3": "d3-value-1",
     "url": "url-value-1",
-    "undefined": "Shift Down"
-  },
-  {
-    "name": "name-value-2-2",
-    "email": "email-value-2",
-    "phone": "phone-value-2",
-    "city": "city-value-2",
-    "country": "country-value-2",
-    "d1": "d1-value-2",
-    "d2": "d2-value-2",
-    "d3": "d3-value-2",
-    "url": "url-value-2",
-    "undefined": "Shift Down"
-  },
-  {
-    "name": "name-value-3-3",
-    "email": "email-value-3",
-    "phone": "phone-value-3",
-    "city": "city-value-3",
-    "country": "country-value-3",
-    "d1": "d1-value-3",
-    "d2": "d2-value-3",
-    "d3": "d3-value-3",
-    "url": "url-value-3",
-    "undefined": "Shift Down"
-  },
-  {
-    "name": "x",
-    "email": "xx",
-    "phone": "xxx",
-    "city": "xxxx",
-    "country": "xxxxx",
-    "d1": "xxxxxx",
-    "d2": "xxxxxxx",
-    "d3": "xxxxxxxx",
-    "url": "xxxxxxxxx",
-    "undefined": "Shift Down"
-  },
-  {
-    "name": "1",
-    "email": "1",
-    "phone": "1",
-    "city": "1",
-    "country": "1",
-    "d1": "1",
-    "d2": "1",
-    "d3": "1",
-    "url": "1",
-    "undefined": "1"
-  },
-  {
-    "name": "2",
-    "email": "2",
-    "phone": "2",
-    "city": "2",
-    "country": "2",
-    "d1": "2",
-    "d2": "2",
-    "d3": "2",
-    "url": "2",
-    "undefined": "2"
-  },
-  {
-    "name": "4",
-    "email": "4",
-    "phone": "4",
-    "city": "4",
-    "country": "4",
-    "d1": "4",
-    "d2": "4",
-    "d3": "4",
-    "url": "4",
-    "undefined": "4"
-  },
-  {
-    "name": "test",
-    "email": "test",
-    "phone": "test",
-    "city": "test",
-    "country": "test",
-    "d1": "test",
-    "d2": "test",
-    "d3": "test",
-    "url": "test",
-    "undefined": "test"
+    "undefined": "Delete"
   }
 ]
