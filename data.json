@@ -19,5 +19,12 @@
     "phone": "phone-value-3",
     "city": "city-value-3",
     "undefined": "Delete"
+  },
+  {
+    "name": "x",
+    "email": "x",
+    "phone": "x",
+    "city": "x",
+    "undefined": "Delete"
   }
 ]
