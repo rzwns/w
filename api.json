@@ -1,0 +1,22 @@
+{
+  "mycontacts": [
+    {
+      "name": "name-value-1",
+      "email": "email-value-1",
+      "phone": "phone-value-1",
+      "url": "url-value-1"
+    },
+    {
+      "name": "name-value-2",
+      "email": "email-value-2",
+      "phone": "phone-value-2",
+      "url": "url-value-2"
+    },
+    {
+      "name": "name-value-3",
+      "email": "email-value-3",
+      "phone": "phone-value-3",
+      "url": "url-value-3"
+    }
+  ]
+}
