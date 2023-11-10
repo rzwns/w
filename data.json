@@ -1,110 +1,20 @@
 [
     {
-        "name": "YOUR HAIR",
-        "image": "assets/images/services-01-400x400.jpg",
-        "description": "Improve your look with our professional hairstyling services.",
-        "services": [
-            {
-                "name": "HAIRCUTTING",
-                "cost": "$99"
-            },
-            {
-                "name": "BLOWDRY",
-                "cost": "$99"
-            },
-            {
-                "name": "UPDO AND STYLING",
-                "cost": "$99"
-            },
-            {
-                "name": "COLOURING AND HIGHLIGHTS",
-                "cost": "$99"
-            },
-            {
-                "name": "HAIR TREATMENTS",
-                "cost": "$99"
-            }
-        ]
+        "name": "name-value-1-1",
+        "email": "email-value-1",
+        "phone": "phone-value-1",
+        "city": "city-value-1"
     },
     {
-        "name": "YOUR SKIN",
-        "image": "assets/images/services-02-400x547.jpg",
-        "description": "Our skin care treatments are customized to suit your skin care needs.  We take pride in our level of professionalism as experienced estheticians.",
-        "services": [
-            {
-                "name": "BOTOX",
-                "cost": "$99"
-            },
-            {
-                "name": "CHEMICAL PEELS",
-                "cost": "$99"
-            },
-            {
-                "name": "MICRODERMABRASION",
-                "cost": "$99"
-            },
-            {
-                "name": "MICRONEEDLING",
-                "cost": "$99"
-            },
-            {
-                "name": "LASER THERAPY",
-                "cost": "$99"
-            }
-        ]
+        "name": "name-value-2-2",
+        "email": "email-value-2",
+        "phone": "phone-value-2",
+        "city": "city-value-2"
     },
     {
-        "name": "HANDS NAILS",
-        "image": "assets/images/services-02-400x547.jpg",
-        "description": "Our manicures and pedicures are expertly carried out by our highly accomplished therapists.",
-        "services": [
-            {
-                "name": "MANICURE",
-                "cost": "$99"
-            },
-            {
-                "name": "PEDICURE",
-                "cost": "$99"
-            },
-            {
-                "name": "WAXING",
-                "cost": "$99"
-            },
-            {
-                "name": "SPA MANICURE",
-                "cost": "$99"
-            },
-            {
-                "name": "HAND MASSAGES",
-                "cost": "$99"
-            }
-        ]
-    },
-    {
-        "name": "BODY TREATMENTS",
-        "image": "assets/images/services-02-400x547.jpg",
-        "description": "A relaxing, de-stressing massage is the perfect way to iron out tense muscles.",
-        "services": [
-            {
-                "name": "CLASSIC MASSAGE",
-                "cost": "$99"
-            },
-            {
-                "name": "HOT STONES",
-                "cost": "$99"
-            },
-            {
-                "name": "TOWEL RELAX",
-                "cost": "$99"
-            },
-            {
-                "name": "AROMATHERAPY",
-                "cost": "$99"
-            },
-            {
-                "name": "FACE MASSAGE",
-                "cost": "$99"
-            }
-        ]
+        "name": "name-value-3-3",
+        "email": "email-value-3",
+        "phone": "phone-value-3",
+        "city": "city-value-3"
     }
 ]
