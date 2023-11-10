@@ -19,33 +19,5 @@
     "phone": "phone-value-3",
     "city": "city-value-3",
     "undefined": "Delete"
-  },
-  {
-    "name": "1",
-    "email": "1",
-    "phone": "1",
-    "city": "1",
-    "undefined": "Delete"
-  },
-  {
-    "name": "2",
-    "email": "2",
-    "phone": "2",
-    "city": "2",
-    "undefined": "Delete"
-  },
-  {
-    "name": "3",
-    "email": "3",
-    "phone": "3",
-    "city": "3",
-    "undefined": "Delete"
-  },
-  {
-    "name": "4",
-    "email": "4",
-    "phone": "4",
-    "city": "4",
-    "undefined": "Delete"
   }
 ]
